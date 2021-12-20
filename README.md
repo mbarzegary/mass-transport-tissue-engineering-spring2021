@@ -2,6 +2,8 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mbarzegary/mass-transport-tissue-engineering-spring2021/HEAD)
 
+**An updated version of this repo is available [here](https://github.com/mbarzegary/mass-transport-tissue-engineering-fall2021)**
+
 This repository contains the teaching materials for the sub-course "Mass Transport in Tissue Engineering" taught in spring 2021. The recorded hands-on session is available [here on YouTube](https://youtu.be/sm9GozNz3_w).
 
 To use the content, you need Jupyter and Python. You may install a local copy of Jupyter by following the instruction on `installation_guide.pdf`, or alternatively, click on the binder badge above to have an interactive online version.
